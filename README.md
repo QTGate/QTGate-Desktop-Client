@@ -1,8 +1,14 @@
-# CoNet platform move to Kloak Platform
-# CoNet プラットフォームはKloak Platformへ移行
-# 請訪問Kloak平台
+### This is the beginning of CoNET project
+### now migrate to
+## The new era of CoNET
 
-# [Kloak Platform/Kloakプラットフォーム/Kloak平台](https://github.com/KloakIT/Kloak_platform)
+### New Link here:
+
+https://bitbucket.org/matheus_moraes_pinheiro/conet
+
+## Homepage
+
+https://conet.network
 
 [![Build Status](https://travis-ci.org/QTGate/QTGate-Desktop-Client.svg?branch=master)](https://travis-ci.org/QTGate/QTGate-Desktop-Client)
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-blue.svg)](https://gitter.im/QTGate/Lobby)
